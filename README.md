@@ -20,6 +20,10 @@ Save the data to the file
 
 # 1.FEATURE GENERATION FOR Data.csv
 ## CODE FOR FEATURE ENCODING AND FEATURE SCALING:
+
+```
+Developed by : T BHARATHI PRIYAN
+reg no:212221040028
 ```
 import pandas as pd
 df=pd.read_csv("data.csv")
